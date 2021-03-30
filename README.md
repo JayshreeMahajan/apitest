@@ -1,9 +1,12 @@
 Setup project environment with virtualenv and pip.
 
-$ virtualenv project-env
-$ source project-env/bin/activate
-$ pip install -r requirements.txt
-$ python manage.py runserver
+$virtualenv project-env
+
+$source project-env/bin/activate
+
+$pip install -r requirements.txt
+
+$python manage.py runserver
 
 
 Url:
